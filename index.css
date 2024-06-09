@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #987070;
+    font-family: "Bigshot One", serif;
+}
+
+body {
+    background-color: #F1E5D1;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    font-size: 48px;
+}
+
+.guitar {
+    font-size: 100px;
+    font-weight: 600;
+    width: 275px;
+    height: 275px;
+    border: 12px solid #C39898;
+    border-radius: 16px;
+    margin: 12px;
+}
+
+.q {
+    background-image: url("./images/acoustic.jpg");
+}
+
+.e {
+    background-image: url("./images/acoustic.jpg");
+}
+
+.r {
+    background-image: url("./images/acoustic.jpg");
+}
+
+.t {
+    background-image: url("./images/acoustic.jpg");
+}
+
+.w {
+    background-image: url("./images/acoustic.jpg");
+}
+
+.a {
+    background-image: url("./images/acoustic.jpg");
+}
+
+.s {
+    background-image: url("./images/acoustic.jpg");
+}
+
+.d {
+    background-image: url("./images/acoustic.jpg");
+}
+
+footer {
+    margin-top: 2.5%;
+}
+
